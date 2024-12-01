@@ -52,10 +52,10 @@ Usage
 2. Share your BCH address or QR code with the sender.
 3. Monitor your wallet for incoming transactions.
 
-License
+Licenсe
 -------
 
-Electrum BCH is released under the `MIT License <LICENSE>`_.
+Electrum BCH is released under the `MIT Licenсe <LICENСE>`_.
 
 Acknowledgements
 ----------------
