@@ -23,9 +23,9 @@ Installation
 
 To download the latest version of Electrum BCH, please select the appropriate installer for your operating system from the `Releases <https://github.com/Electrum-BitcoinCash/electrum-bch/releases/tag/v4.4.1>`_ page on GitHub:
 
-- 🪟 **Windows:** `Download for Windows <https://github.com/Electrum-BitcoinCash/electrum-bch/releases/download/v4.4.1/Electrum-BCH-4.4.1-setup.exe>`_
-- 🍎 **macOS:** `Download for macOS <https://github.com/Electrum-BitcoinCash/electrum-bch/releases/download/v4.4.1/Electrum-BCH-4.4.1-macosx.dmg>`_
-- 🐧 **Linux:** `Download for Linux <https://github.com/Electrum-BitcoinCash/electrum-bch/releases/download/v4.4.1/Electrum-BCH-4.4.1-x86_64.AppImage>`_
+- 🪟 **Windows:** `Download for Windows <https://github.com/Electrum-BitcoinCash/electrum-bch/releases/download/v.4.4.1/Electrum-BCH-4.4.1-setup.exe>`_
+- 🍎 **macOS:** `Download for macOS <https://github.com/Electrum-BitcoinCash/electrum-bch/releases/download/v.4.4.1/Electrum-BCH-4.4.1-macosx.dmg>`_
+- 🐧 **Linux:** `Download for Linux <https://github.com/Electrum-BitcoinCash/electrum-bch/releases/download/v.4.4.1/Electrum-BCH-4.4.1-x86_64.AppImage>`_
 
 ### ⚙️ Setup
 
